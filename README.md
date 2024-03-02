@@ -1,5 +1,7 @@
 # Ranger
 
+[![Make](https://github.com/Alex40r/Ranger/actions/workflows/makefile.yml/badge.svg)](https://github.com/Alex40r/Ranger/actions/workflows/makefile.yml)
+
 Ranger is a small spreadsheet written in Java.
 
 It is an incomplete project, and many features are missing.
